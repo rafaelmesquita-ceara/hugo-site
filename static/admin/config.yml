@@ -17,8 +17,7 @@ collections:
       - { label: 'Descrição', name: 'description', widget: 'string' }
       - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
       - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
-
-collections:  
+      
   - name: 'página'
     label: 'Página'
     folder: 'content/pages'
