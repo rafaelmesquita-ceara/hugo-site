@@ -2,3 +2,6 @@
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 	
+[submodule "static/admin"]
+	path = static/admin
+	url = https://github.com/woliveiras/netlify-cms-base.git
