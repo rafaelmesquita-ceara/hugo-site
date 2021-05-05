@@ -3,20 +3,7 @@ backend:
   branch: main
 media_folder: static/images
 public_folder: /images
-collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-  
+collections:  
   - name: 'post'
     label: 'Post'
     folder: 'content/posts'
@@ -25,7 +12,23 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Data de Publicação', name: 'date', widget: 'datetime' }
+      - { label: 'Descrição', name: 'description', widget: 'string' }
+      - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
+      - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
+
+collections:  
+  - name: 'página'
+    label: 'Página'
+    folder: 'content/pages'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Título', name: 'title', widget: 'string' }
+      - { label: 'Data de Publicação', name: 'date', widget: 'datetime' }
+      - { label: 'Descrição', name: 'description', widget: 'string' }
+      - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
+      - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
