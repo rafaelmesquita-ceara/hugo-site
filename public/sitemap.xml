@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
