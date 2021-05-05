@@ -1,24 +1,7 @@
 title = "Rafael Dev"
 baseURL = "https://priceless-edison-f72052.netlify.app/"
-languageCode = "pt-br"
 theme = "ananke"
-
-DefaultContentLanguage = "pt"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[languages]
-  [languages.pt]
-    title = "Rafael Dev"
-    weight = 1
-    contentDir = "content"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
 
 [params]
   favicon = ""
