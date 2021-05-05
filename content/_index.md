@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Rafael Dev: Dicas de programação e Carreira de Programador 🚀"
+featured_image: '/images/hero.jpg'
+description: "Conteúdo para grandes programadores que querem ser gigantes. 💪"
 ---
 Bem vindo ao meu site em progresso

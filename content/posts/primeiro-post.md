@@ -1,3 +1,25 @@
+---
+title: "Criando sites estáticos com Hugo"
+date: 2021-05-05T14:34:07-03:00
+draft: true
+featured_image: "/images/hugo.png"
+
+slug: hugo
+
+summary: "Hugo é uma estrutura de site de uso geral. Tecnicamente falando, Hugo é um gerador de sites estáticos. Ao contrário de sistemas que constroem dinamicamente uma página a cada solicitação de visitante, o Hugo constrói páginas quando você cria ou atualiza seu conteúdo." # Remove this if you want Hugo to just use the first 70 (configurable) characters of the post as the summary.
+description: "Aprenda a criar sites estáticos poderosos e escaláveis com a incrível ferramenta Hugo"
+
+# Lists
+keywords:
+tags:
+categories:
+---
+
+# Hugo é um rápido e moderno gerador de site estático escrito em Go, e projetado para tornar a criação do site divertida novamente.
+
+Hugo é uma estrutura de site de uso geral. Tecnicamente falando, Hugo é um gerador de local estático. Ao contrário de sistemas que constroem dinamicamente uma página a cada solicitação de visitante, o Hugo constrói páginas quando você cria ou atualiza seu conteúdo. Uma vez que os sites são vistos com muito mais frequência do que são editados, o Hugo foi projetado para fornecer uma experiência de visualização ideal para os usuários finais do seu site e uma experiência ideal de escrita para os autores do site.
+Hugo é um rápido e moderno gerador de site estático escrito em Go, e projetado para tornar a criação do site divertida novamente.
+
 # Iniciando
 
 ```cmd
