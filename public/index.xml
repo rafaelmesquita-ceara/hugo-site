@@ -1,38 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rafael Dev: Dicas de programação e Carreira de Programador 🚀 on Rafael Dev</title>
-    <link>https://priceless-edison-f72052.netlify.app/</link>
-    <description>Recent content in Rafael Dev: Dicas de programação e Carreira de Programador 🚀 on Rafael Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 May 2021 14:34:07 -0300</lastBuildDate><atom:link href="https://priceless-edison-f72052.netlify.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Criando sites estáticos com Hugo</title>
-      <link>https://priceless-edison-f72052.netlify.app/posts/hugo/</link>
-      <pubDate>Wed, 05 May 2021 14:34:07 -0300</pubDate>
-      
-      <guid>https://priceless-edison-f72052.netlify.app/posts/hugo/</guid>
-      <description>Hugo é uma estrutura de site de uso geral. Tecnicamente falando, Hugo é um gerador de sites estáticos. Ao contrário de sistemas que constroem dinamicamente uma página a cada solicitação de visitante, o Hugo constrói páginas quando você cria ou atualiza seu conteúdo.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://priceless-edison-f72052.netlify.app/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://priceless-edison-f72052.netlify.app/about/</guid>
-      <description>Sobre meu blog</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://priceless-edison-f72052.netlify.app/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://priceless-edison-f72052.netlify.app/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your NameEmail AddressAn email address is required.Message</description>
-    </item>
-    
-  </channel>
-</rss>
