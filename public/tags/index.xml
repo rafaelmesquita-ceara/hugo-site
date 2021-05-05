@@ -2,9 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rafael Dev</title>
-    <link>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/tags/</link>
+    <link>https://priceless-edison-f72052.netlify.app/tags/</link>
     <description>Recent content in Tags on Rafael Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://priceless-edison-f72052.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

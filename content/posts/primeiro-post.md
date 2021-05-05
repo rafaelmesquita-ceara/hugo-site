@@ -1,7 +1,7 @@
 ---
 title: "Criando sites estáticos com Hugo"
 date: 2021-05-05T14:34:07-03:00
-draft: true
+draft: false
 featured_image: "./images/hugo.png"
 
 slug: hugo

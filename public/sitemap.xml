@@ -2,24 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://priceless-edison-f72052.netlify.app/posts/hugo/</loc>
+    <lastmod>2021-05-05T14:34:07-03:00</lastmod>
   </url><url>
-    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://priceless-edison-f72052.netlify.app/posts/</loc>
+    <lastmod>2021-05-05T14:34:07-03:00</lastmod>
   </url><url>
-    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://priceless-edison-f72052.netlify.app/</loc>
+    <lastmod>2021-05-05T14:34:07-03:00</lastmod>
   </url><url>
-    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://priceless-edison-f72052.netlify.app/about/</loc>
   </url><url>
-    <loc>https://6092ea07e59ebb000863df98--priceless-edison-f72052.netlify.app/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://priceless-edison-f72052.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://priceless-edison-f72052.netlify.app/contact/</loc>
+  </url><url>
+    <loc>https://priceless-edison-f72052.netlify.app/tags/</loc>
   </url>
 </urlset>
