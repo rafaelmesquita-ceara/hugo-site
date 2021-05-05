@@ -17,10 +17,10 @@ collections:
       - { label: 'Descrição', name: 'description', widget: 'string' }
       - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
       - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
-      
+
   - name: 'página'
     label: 'Página'
-    folder: 'content/pages'
+    folder: 'content/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
