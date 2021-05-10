@@ -4,60 +4,55 @@ backend:
 media_folder: static/images
 public_folder: /images
 
-collections:  
-  - name: 'post'
-    label: 'Post'
-    folder: 'content/posts'
+collections:
+  - name: "post"
+    label: "Post"
+    folder: "content/posts"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Data de Publicação', name: 'date', widget: 'datetime' }
-      - { label: 'Descrição', name: 'description', widget: 'string' }
-      - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
-      - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Data de Publicação", name: "date", widget: "datetime" }
+      - { label: "Descrição", name: "description", widget: "string" }
+      - { label: "Imagem principal", name: "featured_image", widget: "image" }
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
 
-  - name: 'página'
-    label: 'Página'
-    folder: 'content/'
+  - name: "página"
+    label: "Página"
+    folder: "content/"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
-      - { label: 'Título', name: 'title', widget: 'string' }
-      - { label: 'Data de Publicação', name: 'date', widget: 'datetime' }
-      - { label: 'Descrição', name: 'description', widget: 'string' }
-      - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
-      - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Data de Publicação", name: "date", widget: "datetime" }
+      - { label: "Descrição", name: "description", widget: "string" }
+      - { label: "Imagem principal", name: "featured_image", widget: "image" }
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
 
-  - name: 'settings'
-    label: 'Settings'
+  - name: "settings"
+    label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
     editor:
-       preview: false
+      preview: false
     files:
-      - name: 'general'
-        label: 'Site Settings'
-        file: 'config.toml'
-        description: 'General Home Settings'
+      - name: "general"
+        label: "Site Settings"
+        file: "config.toml"
+        description: "General Home Settings"
         fields:
-          - { label: 'Título', name: 'title', widget: 'string' }
-          - { label: 'Tema', name: 'theme', widget: 'select', options: ['ananke'] }
-          - name: 'params'
-            label: 'Parâmetros do tema'
-            widget: 'list'
+          - { label: "Título", name: "title", widget: "string" }
+          - {
+              label: "Tema",
+              name: "theme",
+              widget: "select",
+              options: ["ananke"],
+            }
+          - name: "params"
+            label: "Parâmetros do tema"
+            widget: "list"
             fields:
-              - { label: 'Descrição', name: 'description', widget: 'string' }
-              - { label: 'Background', name: 'featured_image',  widget: 'image'}
-              - { label: 'Números de posts recentes', name: 'recent_posts_number',  widget: 'number'}
-              - { label: 'Facebook', name: 'facebook', widget: 'string' }
-              - { label: 'Twitter', name: 'twitter', widget: 'string' }
-              - { label: 'Instagram', name: 'instagram', widget: 'string' }
-              - { label: 'Youtube', name: 'youtube', widget: 'string' }
-              - { label: 'Github', name: 'github', widget: 'string' }
-              - { label: 'Gitlab', name: 'gitlab', widget: 'string' }
-              - { label: 'LinkedIN', name: 'linkedin', widget: 'string' }
-              - { label: 'Stackoverflow', name: 'stackoverflow', widget: 'string' }
+              - { label: "Background", name: "featured_image", widget: "image" }
