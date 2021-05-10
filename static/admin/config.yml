@@ -41,7 +41,7 @@ collections:
     files:
       - name: 'general'
         label: 'Site Settings'
-        file: 'config.yml'
+        file: 'config.toml'
         description: 'General Home Settings'
         fields:
           - { label: 'Title', name: 'Title', widget: 'string' }
