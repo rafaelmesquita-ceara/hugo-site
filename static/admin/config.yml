@@ -46,7 +46,7 @@ collections:
         fields:
           - { label: 'Título', name: 'title', widget: 'string' }
           - { label: 'Tema', name: 'theme', widget: 'select', options: ['ananke'] }
-          - name: 'params'
+          - { name: 'params',
             label: 'Parâmetros do tema',
             widget: 'list',
             fields:
@@ -60,4 +60,4 @@ collections:
               - { label: 'Github', name: 'github', widget: 'string' }
               - { label: 'Gitlab', name: 'gitlab', widget: 'string' }
               - { label: 'LinkedIN', name: 'linkedin', widget: 'string' }
-              - { label: 'Stackoverflow', name: 'stackoverflow', widget: 'string' }
+              - { label: 'Stackoverflow', name: 'stackoverflow', widget: 'string' } }
