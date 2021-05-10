@@ -3,6 +3,7 @@ backend:
   branch: main
 media_folder: static/images
 public_folder: /images
+
 collections:  
   - name: 'post'
     label: 'Post'
@@ -31,3 +32,16 @@ collections:
       - { label: 'Descrição', name: 'description', widget: 'string' }
       - { label: 'Imagem principal', name: 'featured_image',  widget: 'image'}
       - { label: 'Conteúdo', name: 'body', widget: 'markdown' }
+
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+       preview: false
+    files:
+      - name: 'general'
+         label: 'Site Settings'
+         file: 'config.yml'
+         description: 'General Home Settings'
+         fields:
+           - { label: 'Title', name: 'Title', widget: 'string' }
