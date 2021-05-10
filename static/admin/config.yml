@@ -11,7 +11,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Data de Publicação", name: "date", widget: "datetime" }
@@ -62,15 +62,51 @@ collections:
                   name: "recent_posts_number",
                   widget: "number",
                 }
-              - { label: "Facebook", name: "facebook", widget: "string" }
-              - { label: "Twitter", name: "twitter", widget: "string" }
-              - { label: "Instagram", name: "instagram", widget: "string" }
-              - { label: "Youtube", name: "youtube", widget: "string" }
-              - { label: "Github", name: "github", widget: "string" }
-              - { label: "Gitlab", name: "gitlab", widget: "string" }
-              - { label: "LinkedIN", name: "linkedin", widget: "string" }
+              - {
+                  label: "Facebook",
+                  name: "facebook",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Twitter",
+                  name: "twitter",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Instagram",
+                  name: "instagram",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Youtube",
+                  name: "youtube",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Github",
+                  name: "github",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Gitlab",
+                  name: "gitlab",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "LinkedIN",
+                  name: "linkedin",
+                  widget: "string",
+                  required: false,
+                }
               - {
                   label: "Stackoverflow",
                   name: "stackoverflow",
                   widget: "string",
+                  required: false,
                 }
