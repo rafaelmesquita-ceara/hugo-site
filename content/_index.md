@@ -1,6 +1,7 @@
 ---
-title: "Rafael Dev: Dicas de programação e Carreira de Programador 🚀"
-featured_image: './images/hero.jpg'
-description: "Conteúdo para grandes programadores que querem ser gigantes. 💪"
+title: Blog do Fael ♣
+date: 2021-06-20T00:45:26.242Z
+description: Seja bem-vindo à minha mente 🔐
+featured_image: ./images/hero.jpg
 ---
 Bem vindo ao meu site em progresso!
