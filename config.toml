@@ -1,5 +1,5 @@
 title = "Blog do Rafa"
-baseURL = "https://priceless-edison-f72052.netlify.app/"
+baseURL = "https://blog-do-fael.netlify.app/"
 theme = "ananke"
 SectionPagesMenu = "main"
 
