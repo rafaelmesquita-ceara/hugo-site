@@ -24,4 +24,4 @@ Com base nesses textos, posso dizer que a ideia de que precisamos de um outro pr
 
 "Deu errado agora porque não era a pessoa certa"... Deixe de acreditar em contos de fadas, **não existe a pessoa certa**, e não existe porque ninguém foi feito pra você... A pessoa viveu a vida dela, você viveu a sua vida, são 7 bilhões de pessoas vivendo suas vidas, e aí tem os encontros e os encontros dão trabalho. Assimile uma noção básica que o mundo não foi feito pra você, deixe o surgimento do ego narcísico de lado. O mundo não existe **pra** você, e isso você começa a perceber através de **frustrações dos seus desejos**.
 
-Qualquer pessoa que você encontre, não vai ter essa fusão de desejos, não existe, vai ter algum índice de frustração.
+Qualquer pessoa que você encontre, não vai ter essa fusão de desejos, não existe, vai ter algum índice de frustração. Vai ter um certo trabalho, pode fluir, mas vai passar. Mesmo que o primeiro encontro seja maravilhoso, o trabalho vai vir, e se você não está disposto a ter esse trabalho, você não vai conseguir se relacionar com ninguém. Somos todos errados procurando alguém que aceite nossas imperfeições.
